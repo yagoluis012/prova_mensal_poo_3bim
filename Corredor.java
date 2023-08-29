@@ -1,0 +1,5 @@
+//yago luis 14ti 29/08
+public interface Corredor{
+
+public void correr();
+}
